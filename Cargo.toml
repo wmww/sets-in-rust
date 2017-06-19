@@ -1,0 +1,6 @@
+[package]
+name = "set_shit"
+version = "0.1.0"
+authors = ["William W Wold <wilcoze@gmail.com>"]
+
+[dependencies]
